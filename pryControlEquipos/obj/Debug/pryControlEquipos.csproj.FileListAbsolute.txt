@@ -1,0 +1,206 @@
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+c:\users\marcelo\documents\visual studio 2015\Projects\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+C:\Users\MARCELO\Desktop\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmmodificarsolicitud.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmmodificarsolicitud.resources
+G:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRegequipos.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRegequipos.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAceptationMantenimiento.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAceptationMantenimiento.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmmodificarsolicitud.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRegequipos.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+H:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAceptationMantenimiento.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmmodificarsolicitud.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRegequipos.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+D:\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAceptationMantenimiento.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmmodificarsolicitud.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRegequipos.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmlogin.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMenu.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAceptationMantenimiento.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmlogin.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMenu.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmmodificarsolicitud.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRegequipos.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRListadodocente.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.cache
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.compiled
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRListadoEquipos.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRListadodocente.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRListadoEquipos.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.cache
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.compiled
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRsolcitudesporfecha.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmComprobantedeSol.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRsolcitudesporfecha.resources
+D:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmComprobantedeMantenimiento.resources
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+E:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmComprobantedeMantenimiento.resources
+H:\Programacion III\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmComprobantedeSol.resources
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.exe
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\pryControlEquipos.pdb
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\MySql.Data.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csprojResolveAssemblyReference.cache
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Form1.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAceptationMantenimiento.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmAutorizacion.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmComprobantedeMantenimiento.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmComprobantedeSol.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmlogin.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMenu.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmmodificarsolicitud.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmMotivos.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRegequipos.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRListadodocente.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRListadoEquipos.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmRsolcitudesporfecha.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.frmSolicitud.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Resources.resources
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.cache
+D:\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.compiled
