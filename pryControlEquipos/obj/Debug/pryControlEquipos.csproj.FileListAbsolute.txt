@@ -204,3 +204,6 @@ D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.Properties.Re
 D:\pryControlEquipos\pryControlEquipos\obj\Debug\pryControlEquipos.csproj.GenerateResource.Cache
 D:\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.cache
 D:\pryControlEquipos\pryControlEquipos\obj\Debug\RdlCompile.compiled
+C:\Users\David\Documents\GitHub\Desktop-application--Inventory-Control-and-Equipment-Failure-Reports-in-Computer-Laboratories-\pryControlEquipos\bin\Debug\pryControlEquipos.exe.config
+C:\Users\David\Documents\GitHub\Desktop-application--Inventory-Control-and-Equipment-Failure-Reports-in-Computer-Laboratories-\pryControlEquipos\obj\Debug\pryControlEquipos.exe
+C:\Users\David\Documents\GitHub\Desktop-application--Inventory-Control-and-Equipment-Failure-Reports-in-Computer-Laboratories-\pryControlEquipos\obj\Debug\pryControlEquipos.pdb
